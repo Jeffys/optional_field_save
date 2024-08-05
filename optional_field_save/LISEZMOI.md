@@ -34,25 +34,23 @@ Support Complet : Nous offrons un support continu et des services de maintenance
 ## [Contactez-Nous](https://www.doodex.net/contactus)
 Si vous recherchez un partenaire capable de fournir des solutions Odoo personnalisées adaptées aux besoins de votre entreprise, ne cherchez pas plus loin que Doodex. Visitez notre site web à www.doodex.net pour en savoir plus sur nos services et découvrir comment nous pouvons vous aider à atteindre vos objectifs commerciaux.
 
-## [Analyse Avancée des Ventes](https://www.doodex.net/en/blog/doodex-blog-2/sales-dashboard-example-with-odoo-88)
-Ce module Odoo personnalisé améliore le rapport d'analyse des ventes en fournissant des informations financières supplémentaires. Il introduit trois indicateurs clés pour offrir une vue plus détaillée du pipeline de vente et de l'état des flux de trésorerie.
+## [Champ Actif Facultatif](index.html)
+Ce module Odoo particulier améliore la liste des options sélectionnées en offrant la possibilité d'enregistrer des données dans une base de données.
 
-##Fonctionnalités
-#Montant Reçu : Affiche le montant total des commandes/articles qui ont été entièrement facturés et payés. Cela aide à identifier les revenus déjà réalisés.
-#En Attente de Paiement : Montre le montant total des factures créées mais non encore payées. C'est utile pour suivre les créances en suspens et gérer les flux de trésorerie.
-#Montant à Facturer : Indique le montant total des commandes/articles pour lesquels les factures n'ont pas encore été créées. Cela aide à comprendre les revenus potentiels futurs et à gérer le processus de facturation.
+## Fonctionnalités
+- **Stockage des options sélectionnées**
+Enregistre une liste d'options sélectionnées dans une base de données, permettant un accès cohérent et la récupération des données lors des sessions ultérieures ou dans de nouveaux navigateurs.
 
-##Avantages
-Visibilité Financière Améliorée : Obtenez des informations plus approfondies sur l'état financier des commandes de vente.
-Meilleure Gestion des Flux de Trésorerie : Suivez facilement les paiements reçus et les factures en suspens.
-Processus de Facturation Rationalisé : Suivez les commandes à facturer pour vous assurer de ne manquer aucun revenu.
+- **Accès et restauration automatiques**
+Récupère et restaure automatiquement les options enregistrées lorsque l'utilisateur ouvre l'application ou recharge la page, garantissant ainsi la continuité de l'expérience utilisateur.
+
+- **Gestion des options enregistrées**
+Fournit une interface de gestion des options enregistrées, y compris les mises à jour, les suppressions et les ajouts, afin que les utilisateurs puissent organiser leurs données en fonction de leurs besoins.
 
 ##Installation
-Téléchargez le module depuis ce dépôt.
-Installez le module dans votre instance Odoo.
-Accédez au rapport d'analyse des ventes pour voir les nouveaux indicateurs.
-Utilisation
-Une fois installé, les nouveaux indicateurs seront disponibles dans le rapport d'analyse des ventes. Utilisez les filtres et les options de regroupement pour analyser les données selon vos besoins.
+1. Téléchargez le module à partir de ce référentiel.
+2. Installez le module dans votre instance Odoo.
+3. Vous pouvez maintenant enregistrer une liste d'options sélectionnées dans une base de données.
 
 ##Compatibilité
 Version d'Odoo : 16.0
