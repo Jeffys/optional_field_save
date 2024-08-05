@@ -24,6 +24,7 @@
         "web.assets_backend": [
             "optional_field_save/static/src/js/list_renderer.js",
             "optional_field_save/static/src/js/webclient.js",
+            "optional_field_save/static/src/js/user_menu_items.js",
         ],
     },
     'images': ['static/description/banner.png'],
