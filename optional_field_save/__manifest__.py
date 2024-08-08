@@ -28,5 +28,6 @@
         ],
     },
     'images': ['static/description/banner.png'],
-
+    'price': 10,
+    'currency': "USD"
 }
