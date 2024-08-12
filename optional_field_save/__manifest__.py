@@ -19,7 +19,7 @@
         "base",
         "web",
     ],
-    "application": True,
+    "application": False,
     "assets": {
         "web.assets_backend": [
             "optional_field_save/static/src/js/list_renderer.js",
@@ -28,6 +28,4 @@
         ],
     },
     'images': ['static/description/banner.png'],
-    'price': 10,
-    'currency': "USD"
 }
