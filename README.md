@@ -36,7 +36,7 @@ Visit our website at www.doodex.net to learn more about our services and how we 
 [get a free audit here](https://www.doodex.net/audit-gratuit)
 
 
-## [Optional Active Field](https://www.doodex.net/en/blog/doodex-blog-2/enregistrement-du-champ-optionnel-100)
+## [Optional Field Save](https://www.doodex.net/en/blog/doodex-blog-2/enregistrement-du-champ-optionnel-100)
 This particular Odoo module enhances the list of selected options by providing the ability to save data into a database.
 
 ## Features
